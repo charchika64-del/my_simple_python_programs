@@ -1,4 +1,4 @@
-#Hey, thus program can filter students on the basis of their property and 
+#Hey, this program can filter students on the basis of their property and 
 #value given by user.
 #The students are Rahul,Riya,Vikram,Kamal,Siya,Champa
 class Student:
